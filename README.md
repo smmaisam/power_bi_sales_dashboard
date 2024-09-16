@@ -36,7 +36,7 @@ This dashboard is ideal for business analysts and decision-makers at AdventureWo
 - Track sales and product performance.
 - Analyze customer behavior and demographics.
 - Monitor inventory and supply chain performance.
-- Make data-driven decisions to improve profitability and operational efficiency.
+- Make data-driven decisions to improve profitability and operational efficiency. 
 
 ## Data Source
 The dataset used in this dashboard comes from the **AdventureWorks** sample database, which is designed for educational and demonstration purposes.
