@@ -1,7 +1,7 @@
 # AdventureWorks Cycle Power BI Dashboard
 
 ## Overview
-
+ 
 This Power BI dashboard provides insights into the key operational areas of **AdventureWorks Cycle**, a fictional bicycle manufacturing company. The dashboard analyzes data from the AdventureWorks dataset, offering detailed views into sales performance, customer demographics, product profitability, and supply chain management. 
 
 ## Key Features 
